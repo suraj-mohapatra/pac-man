@@ -14,4 +14,6 @@ How did I do this?
 
 No big deal. Launched https://www.google.com/logos/2010/pacman10-i.html  
 
-copied all the resources, placed them in the right directory structure.
+copied all the resources, placed them in the right directory structure.  
+
+modified few lines with hit and trial.
