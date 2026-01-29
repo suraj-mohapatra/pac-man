@@ -1334,7 +1334,7 @@
       // bc[cc] = b;
       // b.src = "/gen_204?atyp=i&ct=doodle&cad=" + a + "&zx=" + Date.now();
       // cc++;
-      // console.log("gen_204 is escaped");
+      console.log("gen_204 is escaped");
     },
     bc = [],
     cc = 0;
