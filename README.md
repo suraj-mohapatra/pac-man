@@ -21,6 +21,6 @@ modified few lines with hit and trial.
 What else can we mod ?
 
 - The sprite sheet can be edited for different graphics
-- nore points
+- more score
 - speed control
 - ghost mode for the protagonist
