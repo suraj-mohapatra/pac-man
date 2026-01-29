@@ -7,4 +7,11 @@ cd ./pac-man
 serve with any http server
 
 Game Mods  
-initial life is set to 7 and it never decreases
+initial life is set to 7 and it never decreases  
+
+
+How did I do this?  
+
+No big deal. Launched https://www.google.com/logos/2010/pacman10-i.html  
+
+copied all the resources, placed them in the right directory structure.
