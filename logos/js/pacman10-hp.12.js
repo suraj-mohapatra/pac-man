@@ -4175,7 +4175,7 @@
         ge &&
           ((P = document.createElement("div")),
           (P.style.background =
-            "url(/logos/pacman10-hp-sprite-3.png) 38px 18px no-repeat"),
+            "url(/logos/pacman10-hp-sprite-original.png) 38px 18px no-repeat"),
           (P.style.position = "absolute"),
           (P.style.right = "0"),
           (P.style.top = "0"),
@@ -4273,7 +4273,7 @@
   ce = Ef.createElement(Df);
   var Ff = -1 != navigator.userAgent.indexOf("MSIE");
   Ff || (ce.onload = Bf);
-  ce.src = "/logos/pacman10-hp-sprite-3.png";
+  ce.src = "/logos/pacman10-hp-sprite-original.png";
   Ff && Bf();
   0 ==
     (function () {
